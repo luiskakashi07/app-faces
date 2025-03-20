@@ -2,7 +2,7 @@ name: faces_model
 
 on:  
   push: 
-    branches: [ main ]  
+    branches: [ main ]   
   pull_request:   
     branches: [ main ]  
  
